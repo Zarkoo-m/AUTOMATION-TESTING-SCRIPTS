@@ -79,7 +79,9 @@ End-to-End Automation for Appliance Shopping – Featuring **Cross-Browser Testi
 
 ---
 
-## 📂 PROJECT STRUCTURE
+## 📂 **PROJECT STRUCTURE**
+
+```plaintext
 📁 APPLIANCE_SHOP
 │── 📁 A_USER_AUTH                                                                       # User authentication & login
 │   ├── A_1_CUSTOMER_LOGIN.py
